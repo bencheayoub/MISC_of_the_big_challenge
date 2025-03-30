@@ -2,4 +2,7 @@
 
 here is the challenges of MISC from the big challenge :
 
-- \\\ i'll add it soon inchalah.
+- [ALDI](https://github.com/bencheayoub/ALDI)
+- [images](https://github.com/bencheayoub/images)
+- [python](https://github.com/bencheayoub/python)
+- [PRS](https://github.com/bencheayoub/PRS)
